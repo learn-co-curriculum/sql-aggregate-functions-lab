@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Database
-gem 'sqlite3', '~>1.3.6'
+gem 'sqlite3', '~>2.9.5'
 
 # Testing
 gem 'rspec'
